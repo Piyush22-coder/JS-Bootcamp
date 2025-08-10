@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cowsay": "^1.6.0"
+    "cowsay": "^1.6.0",
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
     "eslint": "^9.32.0",
